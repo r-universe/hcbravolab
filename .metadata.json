@@ -1,14 +1,5 @@
 [
   {
     "package": "antiProfiles"
-  },
-  {
-    "package": "metagenomeFeatures"
-  },
-  {
-    "package": "metagenomeSeq"
-  },
-  {
-    "package": "Wrench"
   }
 ]
