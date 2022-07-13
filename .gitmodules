@@ -8,3 +8,18 @@
 	url = https://github.com/hcbravolab/antiprofiles
 	shallow = true
 	registered = true
+[submodule "metagenomeFeatures"]
+	path = metagenomeFeatures
+	url = https://github.com/hcbravolab/metagenomefeatures
+	shallow = true
+	registered = true
+[submodule "metagenomeSeq"]
+	path = metagenomeSeq
+	url = https://github.com/hcbravolab/metagenomeseq
+	shallow = true
+	registered = true
+[submodule "Wrench"]
+	path = Wrench
+	url = https://github.com/hcbravolab/wrench
+	shallow = true
+	registered = true
