@@ -18,8 +18,3 @@
 	url = https://github.com/hcbravolab/wrench
 	shallow = true
 	registered = true
-[submodule "metagenomeFeatures"]
-	path = metagenomeFeatures
-	url = https://github.com/hcbravolab/metagenomefeatures
-	shallow = true
-	registered = true
