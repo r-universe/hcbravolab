@@ -13,3 +13,8 @@
 	url = https://github.com/hcbravolab/metagenomeseq
 	shallow = true
 	registered = true
+[submodule "Wrench"]
+	path = Wrench
+	url = https://github.com/hcbravolab/wrench
+	shallow = true
+	registered = true
