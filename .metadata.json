@@ -3,9 +3,9 @@
     "package": "antiProfiles"
   },
   {
-    "package": "Wrench"
+    "package": "metagenomeSeq"
   },
   {
-    "package": "metagenomeSeq"
+    "package": "Wrench"
   }
 ]
