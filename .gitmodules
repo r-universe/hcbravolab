@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "antiProfiles"]
 	path = antiProfiles
 	url = https://github.com/hcbravolab/antiprofiles
-	shallow = true
-	registered = true
 [submodule "metagenomeSeq"]
 	path = metagenomeSeq
 	url = https://github.com/hcbravolab/metagenomeseq
-	shallow = true
-	registered = true
 [submodule "Wrench"]
 	path = Wrench
 	url = https://github.com/hcbravolab/wrench
-	shallow = true
-	registered = true
