@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "Wrench"]
+	path = Wrench
+	url = https://github.com/hcbravolab/wrench
 [submodule "antiProfiles"]
 	path = antiProfiles
 	url = https://github.com/hcbravolab/antiprofiles
 [submodule "metagenomeSeq"]
 	path = metagenomeSeq
 	url = https://github.com/hcbravolab/metagenomeseq
-[submodule "Wrench"]
-	path = Wrench
-	url = https://github.com/hcbravolab/wrench
